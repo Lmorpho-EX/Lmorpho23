@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    color: #fff;
+    color: #e0d9d9;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
@@ -22,7 +22,7 @@ img{
 }
 .menu{
     position: relative;
-    background-color: #ffafaf;
+    background-color: #351702;
     width: 72px;
     height: 100vh;
     overflow: hidden ;
